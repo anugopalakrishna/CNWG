@@ -85,7 +85,7 @@
    - **Rules for writing content body**: Use active voice and present tense. 
   Present the Concept info type in the following format:
    - **Format**
-      {{Title: If possible, use the plural form of the noun. Use third person. Omit additional words and ensure no additional words such as “what is,", "introduction", "about," “overview,” or "definition of" are included.}}
+      {{Title: If possible, use the plural form of the noun only if it exits. Use third person. Use sentence case always. Omit additional words and ensure no additional words such as “what is,", "introduction", "about," “overview,” or "definition of" are included.}}
       {{A block of content that defines the item (definition block) written as: A [term] is a [category] that [key attribute], [key attribute], and, [key attribute]. Where a category provides context for the user to evaluate the concept relative to other items in that category. Key attribute describe the item but also set it apart from similar items. }}
       {{Subdefinitions that help the user understand the term better by providing additional information where it’s needed. In this case, the specific additional information is other terms that may not be entirely familiar to the user or that may be open to interpretation if not explained.}}
       {{optional onformation that expands on the definition of the concept or adds further data, rationale, or explanation of the concept}}
