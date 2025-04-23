@@ -115,7 +115,7 @@ Begin with Section 1.
    
 ## General Writing Guidelines (Chapter 8):
 
-### SECTION: Basics — American English, Dates, Phone Numbers, and Related Conventions
+### SECTION 1: Basics — American English, Dates, Phone Numbers, and Related Conventions
 
 Go step by step for each of the following rules. Review the full document and find **all** violations in this section. 
 
@@ -182,7 +182,7 @@ Go step by step for each of the following rules. Review the full document and fi
 
 <!-- START: Section X – NUMBERS -->
 
-### SECTION: Numbers
+### SECTION 2: Numbers
 
 1. **Trigger Rule – Spell or Not**  
    - **Rule:** Whenever a number appears — whether spelled out or written as a numeral — pause and apply this rule.  
@@ -238,7 +238,7 @@ Go step by step for each of the following rules. Review the full document and fi
 ---
 <!-- START: Section X – RANGES OF NUMBERS -->
 
-### SECTION: Ranges of Numbers
+### SECTION 3: Ranges of Numbers
 
 1. **Ranges in Text**  
    - **Rule:** Use the word **“to”** for number ranges in running text or prose.  
@@ -307,7 +307,7 @@ Go step by step for each of the following rules. Review the full document and fi
 
 <!-- START: Section X – SUBJECT AND VERB USAGE -->
 
-### SECTION: Subject and Verb Usage
+### SECTION 4: Subject and Verb Usage
 
 1. **Proximity Between Subject and Verb**  
    - **Rule:** Keep the subject and verb close together in a sentence. This improves clarity, minimizes ambiguity, and strengthens the connection between the actor and the action.  
@@ -323,7 +323,7 @@ Go step by step for each of the following rules. Review the full document and fi
 ---
 <!-- START: Section X – CRAFTING EFFECTIVE SENTENCES -->
 
-### SECTION: Crafting Effective Sentences
+### SECTION 5: Crafting Effective Sentences
 
 1. **Sentence Completeness**  
    - **Rule:** Every sentence should be complete and focus on one main idea.  
@@ -354,7 +354,7 @@ Go step by step for each of the following rules. Review the full document and fi
 
 <!-- START: Section X – USING CHARACTERS IN WRITING -->
 
-### SECTION: Using Characters in Writing – Ensuring Clarity and Avoiding Confusion
+### SECTION 6: Using Characters in Writing – Ensuring Clarity and Avoiding Confusion
 
 1. **Avoid Ambiguous Characters**  
    - **Rule:** Avoid using special characters or symbols that may confuse readers, carry unintended meanings, or reduce clarity.  
@@ -395,7 +395,7 @@ Go step by step for each of the following rules. Review the full document and fi
 
 <!-- START: Section X – PUNCTUATION RULES -->
 
-### SECTION: Punctuation Rules
+### SECTION 7: Punctuation Rules
 
 1. **Colons**  
    - **Rule:** Use a colon to introduce a list or to separate list elements from their descriptions.  
@@ -446,7 +446,7 @@ Go step by step for each of the following rules. Review the full document and fi
 
 <!-- START: Section X – ABBREVIATIONS, ACRONYMS, AND INITIALISMS -->
 
-### SECTION: Abbreviations, Acronyms, and Initialisms
+### SECTION 8: Abbreviations, Acronyms, and Initialisms
 
 1. **Introduction and Expansion**  
    - **Rule:** Spell out the full form of an acronym or initialism the first time it appears, followed by the abbreviated form in parentheses.  
@@ -530,7 +530,7 @@ Go step by step for each of the following rules. Review the full document and fi
 
 <!-- START: Section X – CAPITALIZATION RULES -->
 
-### SECTION: Capitalization Rules
+### SECTION 9: Capitalization Rules
 
 1. **General Sentence Start**  
    - **Rule:** Always capitalize the first word of a sentence.  
@@ -620,7 +620,7 @@ Go step by step for each of the following rules. Review the full document and fi
 
 <!-- START: Section X – COMPOUND MODIFIERS -->
 
-### SECTION: Compound Modifiers, Contractions, Possessives, and Prefixes
+### SECTION 10: Compound Modifiers, Contractions, Possessives, and Prefixes
 
 #### Compound Modifiers
 
@@ -655,7 +655,7 @@ Go step by step for each of the following rules. Review the full document and fi
 <!-- END: Section X – COMPOUND MODIFIERS -->
 <!-- START: Section X – CONTRACTIONS -->
 
-### SECTION: Contractions
+### SECTION 11: Contractions
 
 1. **Use for Natural Tone**  
    - **Rule:** Use contractions to make writing sound conversational and user-friendly, especially in instructional content. Use them **sparingly** to maintain clarity.  
@@ -672,7 +672,7 @@ Go step by step for each of the following rules. Review the full document and fi
 <!-- END: Section X – CONTRACTIONS -->
 <!-- START: Section X – POSSESSIVES -->
 
-### SECTION: Possessives
+### SECTION 12: Possessives
 
 1. **Basic Formation**  
    - **Rule:** Form the possessive of singular nouns by adding **’s**.  
@@ -696,7 +696,7 @@ Go step by step for each of the following rules. Review the full document and fi
 
 <!-- START: Section X – PREFIXES -->
 
-### SECTION: Prefixes
+### SECTION 13: Prefixes
 
 1. **General Hyphenation Rule**  
    - **Rule:** Do **not** hyphenate prefix-based words unless necessary to avoid confusion.  
@@ -721,7 +721,7 @@ Go step by step for each of the following rules. Review the full document and fi
 
 <!-- START: Section X – UNITS OF MEASURE -->
 
-### SECTION: Units of Measure
+### SECTION 14: Units of Measure
 
 1. **Abbreviation Usage**  
    - **Rule:** Use abbreviations for units of measure in **figures and tables**. In running text, **spell out the unit** unless the abbreviation is widely recognized.  
