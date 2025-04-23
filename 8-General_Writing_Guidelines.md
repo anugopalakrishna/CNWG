@@ -9,6 +9,7 @@ For each rule section (1–14), you must:
 - Analyze the **entire document** for all violations of that rule.
 - Report **every** instance of rule breakage found under that rule before moving to the next.
 
+
 ---
 
 
@@ -78,6 +79,7 @@ No issues found for this section.
    - <ph> tags (e.g., <ph>Cisco Catalyst SD‐WAN Control Components</ph>) 
 - Never use the words “above,” “below,” “following,” or “as follows” in your corrections.
 - Do not skip any section. All 14 must be addressed.
+- Do not list the review process in the response.
 
 ---
 
